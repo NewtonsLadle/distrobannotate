@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "name": "Kidney Cancer",
+    "users": ["helle246"],
+    "timeline": [
+      {
+        "timestamp": 1484200800000,
+        "type": 1,
+        "title": "Added 25 Patients",
+        "content": "We now have the data from 25 patients with various stages of cancer."
+      }
+    ]
+  }
+]

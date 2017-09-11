@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>cotsscout_back.png</background_image>
+  <short_name>COTS Scout</short_name>
+  <long_name>The COTS Scout</long_name>
+  <description>The Scout robot has been developed at the University of Minnesota in partnership with MTS, Honeywell, and ATC. The Scout is designed to operate alone or in conjunction with Scouts or other robots.</description>
+  <demo></demo>
+  <further_description>The Scouts are specialized robots that carry out low-level, usually parallel tasks aimed to meet the mission objectives. Scouts can include simple sensory units or units with locomotion, tools or other specializations. All Scouts have a similar form factor to enable delivery by a uniform mechanism of the ranger. The Scout has a body of roughly 11cm long, and 4cm in diameter (the special foam wheels can expand to 5cm in diameter). This body fits snugly inside a protective covering called a Sabot that absorbs much of the impact during the launch, and allows the Scout to even break through a glass window and land safely and ready to begin its mission.</further_description>
+  <variations>Currently, there are two different versions of the COTS Scouts. The first generation and second generation COTS Scouts are very similar in electronics and communication range. The second generation COTS Scouts were developed in an attempt to address some of the problems associated with building a robot that can withstand being thrown long distances. These new hardening features allow it to take multiple throws of > 50 feet and still function.</variations>
+  <specs>
+    <spec>Length: 135mm</spec>
+    <spec>Diameter: 450mm (main body)</spec>
+    <spec>Weight: 190g</spec>
+    <spec>Top Speed: 0.50 m/s</spec>
+  </specs>
+  <sensors>
+    <sensor>B/W Camera</sensor>
+  </sensors>
+  <computation></computation>
+  <lifetime>
+    <life>Full Speed: 60 min</life>
+    <life>Quiescent Mode: 190 min</life>
+  </lifetime>
+  <gallery>
+    <small_pic big="fin_cotsscout1.png">s_fin_cotsscout1.png</small_pic>
+    <small_pic big="fin_cotsscout2.png">s_fin_cotsscout2.png</small_pic>
+    <small_pic big="fin_cotsscout3.png">s_fin_cotsscout3.png</small_pic>
+  </gallery>
+</robot>

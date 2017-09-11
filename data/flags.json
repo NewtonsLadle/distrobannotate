@@ -1,0 +1,1 @@
+[{"patient":"1","image":"1","feature":"left_kidney","notes":"This is a test note","handled":true,"user":"test","fixed":true},{"patient":"1","image":"12","feature":"left_kidney","notes":"Not a left kidney","handled":true,"fixed":true,"user":"helle246"}]

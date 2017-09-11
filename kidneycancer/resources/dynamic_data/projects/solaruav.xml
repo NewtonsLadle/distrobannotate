@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>solaruav_back.png</background_image>
+  <short_name>Solar UAV</short_name>
+  <long_name>Solar UAV</long_name>
+  <description>The long term milestone for this project has two significant and independent components that must be fully integrated into a single aircraft. The first is to achieve continuous flight, which is accomplished when the aircraft is able to sustain flight only through the use of solar power captured through solar cells. The second goal is the ability to transmit images and video as well as receive instructions through the 4G cellular network. These combine to result in an aircraft that is completely untethered to a ground location and is able to gather and relay valuable visual information anywhere in the world through the Internet.</description>
+  <demo><youtube_video>https://youtu.be/BRO6KuqAhyY</youtube_video></demo>
+  <further_description>The long term milestone for this project has two significant and independent components that must be fully integrated into a single aircraft. The first is to achieve continuous flight, which is accomplished when the aircraft is able to sustain flight only through the use of solar power captured through solar cells. The second goal is the ability to transmit images and video as well as receive instructions through the 4G cellular network. These combine to result in an aircraft that is completely untethered to a ground location and is able to gather and relay valuable visual information anywhere in the world through the Internet.</further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_solaruav1.png">s_fin_solaruav2.png</small_pic>
+    <small_pic big="fin_solaruav2.png">s_fin_solaruav2.png</small_pic>
+  </gallery>
+</robot>

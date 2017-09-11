@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publications_content>
+  <background_image>publications_back.png</background_image>
+  <page_header>Publications</page_header>
+
+  <publications_list>
+    <robot>Adelopod</robot>
+    <publication>
+      <authors>Brett Hemes and Nikolaos Papanikolopoulos</authors>
+      <title>Frictional step climbing analysis of tumbling locomotion</title>
+      <location>IEEE Conference on Robotics and Automation (ICRA) 2012</location>
+    </publication>
+    <publication>
+      <authors>Brett Hemes, Dario Canelon, Justin Dancs and Nikolaos Papanikolopoulos</authors>
+      <title>Robotic Tumbling Locomotion</title>
+      <location>IEEE International Conference on Robotics and Automation (ICRA) 2011</location>
+    </publication>
+    <publication>
+      <authors>Brett Hemes and Nikolaos Papanikolopoulos</authors>
+      <title>A New Modular Schema for the Control of Tumbling Robots</title>
+      <location>IEEE International Conference on Intelligent Robots and Systems (IROS) 2009</location>
+    </publication>
+    <publication>
+      <authors>Brett Hemes, Nikolaos Papanikolopoulos, and Barry O'Brien</authors>
+      <title>The Adelopod Tumbling Robot</title>
+      <location>IEEE International Conference on Robotics and Automation (ICRA) 2009</location>
+    </publication>
+    <publication>
+      <authors>Brett Hemes, Duc Fehr, Nikolaos Papanikolopoulos</authors>
+      <title>Motion Primitives for a Tumbling Robot</title>
+      <location>IEEE International Conference on Intelligent Robots and Systems (IROS) 2008</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Aquapod</robot>
+    <publication>
+      <authors>Sandeep Dhull, Dario Canelon, Apostolos Kottas, Justin Dancs and Nikolaos Papanikolopoulos</authors>
+      <title>Aquapod: A Small Amphibious Robot with Sampling Capabilities</title>
+      <location>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2012</location>
+    </publication>
+    <publication>
+      <authors>Andrew Carlson and Nikolaos Papanikolopoulos</authors>
+      <title>Aquapod : Prototype Design of an Amphibious Tumbling Robot</title>
+      <location>IEEE International Conference on Robotics and Automation (ICRA) 2011</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>eROSI</robot>
+    <publication>
+      <authors>Loren Fiore, Guruprasad Somasundaram, Andrew Drenner and Nikolaos Papanikolopoulos</authors>
+      <title>Optimal camera placement with adaptation to dynamic scenes</title>
+      <location>Proceedings of the 2008 IEEE Conference on Robotics and Automation, Pasadena, CA, May 19-23, 2008. Pages: 956-961.</location>
+    </publication>
+    <publication>
+      <authors>Hyeun Jeong Min, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Autonomous docking for an eROSI robot based on a vision system with points clustering</title>
+      <location>Proceedings of the 2007 Mediterranean Conference on Control & Automation, Athens, Greece, 2007</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Explorer</robot>
+    <publication>
+      <authors>Qingquan Zhang, Gerald Sobelman, and Tian He</authors>
+      <title>Gradient-Based Target Localization in Robotic Sensor Networks</title>
+      <location>The Pervasive and Mobile Computing Journal, Volume 5, 2009.</location>
+    </publication>
+    <publication>
+      <authors>Monica Anderson and Nikolaos Papanikolopoulos</authors>
+      <title>Implicit Cooperation Strategies for Multi-robot Search of Unknown Areas</title>
+      <location>Journal of Intelligent and Robotic Systems, Volume 53, 2008</location>
+    </publication>
+    <publication>
+      <authors>Loren Fiore, Duc Fehr, Robot Bodor, Andrew Drenner, Guruprasad Somasundaram, and Nikolaos Papanikolopoulos</authors>
+      <title>Multi-Camera Human Activity Monitoring</title>
+      <location>Journal of Intelligent and Robotic Systems, Vol. 52, 2008.</location>
+    </publication>
+    <publication>
+      <authors>Apostolos Kottas, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Intelligent Power Management: Promoting Power-Consciousness in Teams of Mobile Robots</title>
+      <location>Proceedings of the 2009 IEEE International Conference on Robotics and Automation (ICRA), 2009.</location>
+    </publication>
+    <publication>
+      <authors>Hyeun Jeong Min, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Vision-based Leader-Follower Formations with Limited Information</title>
+      <location>Proceedings of the 2009 IEEE International Conference on Robotics and Automation (ICRA), 2009.</location>
+    </publication>
+    <publication>
+      <authors>Loren Fiore, Guruprasad Somasundaram, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Optimal Camera Placement with Adaptation to Dynamic Scenes</title>
+      <location>Proceedings of the 2008 IEEE International Conference on Robotics and Automation (ICRA), 2008.</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>MicroVision</robot>
+    <publication>
+      <authors>William J. Beksi and Nikolaos Papanikolopoulos</authors>
+      <title>Point Cloud Culling for Robot Vision Tasks Under Communication Constraints</title>
+      <location>Proceedings of the 2014 IEEE International Conference on Intelligent Robots and Systems (IROS), 2014.</location>
+    </publication>
+    <publication>
+      <authors>Duc Fehr, William J. Beksi, Dimitris Zermas and Nikolaos Papanikolopoulos</authors>
+      <title>Occlusion Alleviation through Motion Using a Mobile Robot</title>
+      <location>Proceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA), 2014.</location>
+    </publication>
+    <publication>
+      <authors>Pratap Tokekar, Vineet Bhatawadekar, Duc Fehr, and Nikolaos Papanikolopoulos</authors>
+      <title>Experiments in Object Reconstruction Using a Robot-mounted Laser Range-finder</title>
+      <location>17th Mediterranean Conference on Control and Automation, MED'09.</location>
+    </publication>
+    <publication>
+      <authors>Duc Fehr and Nikolaos Papanikolopoulos</authors>
+      <title>Using a Laser Range Finder Mounted on a MicroVision Robot to Estimate Environmental Parameters</title>
+      <location>SPIE Defense, Security, and Sensing International Society for Optics and Photonics, 2009.</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Hybrid</robot>
+    <publication>
+      <authors>Alex Kossett and Nikolaos Papanikolopoulos</authors>
+      <title>A Robust Miniature Robot Design for Land/Air Hybrid Locomotion</title>
+      <location>IEEE International Conference on Robotics and Automation (ICRA) 2011</location>
+    </publication>
+    <publication>
+      <authors>Alex Kossett, Ruben D'Sa, Jesse Purvey, and Nikolaos Papanikolopoulos</authors>
+      <title>Design of an Improved Land/Air Miniature Robot</title>
+      <location>IEEE International Conference on Robotics and Automation (ICRA) 2010</location>
+    </publication>
+    <publication>
+      <authors>Alex Kossett, Jesse Purvey, and Nikolaos Papanikolopoulos</authors>
+      <title>More Than Meets the Eye: A Hybrid-Locomotion Robot with Rotary Flight and Wheel Modes</title>
+      <location>IEEE International Conference on Intelligent Robots and Systems (IROS) 2009</location>
+    </publication>
+    <publication>
+      <authors>Sam D. Herbert, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Loper: A Quadruped-Hybrid Stair Climbing Robot</title>
+      <location>Proceedings of the 2008 IEEE Conference on Robotics and Automation, Pasadena, CA, May 19-23, 2008</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Loper</robot>
+    <publication>
+      <authors>Sam D. Herbert, Andrew Drenner, and Nikolaos Papanikolopoulos</authors>
+      <title>Loper: A Quadruped-Hybrid Stair Climbing Robot</title>
+      <location>Proceedings of the 2008 IEEE Conference on Robotics and Automation, Pasadena, CA, May 19-23, 2008.</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>UMN Scout</robot>
+    <publication>
+      <authors>E. Kadioglu, N. Papanikolopoulos</authors>
+      <title>A Method for Transporting a Team of Miniature Robots</title>
+      <location>Proceedings of the 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems.</location>
+    </publication>
+    <publication>
+      <authors>P. E. Rybski, F. Zacharias, J. F. Lett, O. Masoud, M. Gini and N. Papanikolopoulos</authors>
+      <title>Building Topological Maps with Sensor-Limited Miniature Mobile Robots</title>
+      <location>Proceedings of the 2003 IEEE International Conference on Robotics and Automation</location>
+    </publication>
+    <publication>
+      <authors>J. L. Pearce, P. E. Rybski, S. A. Stoeter, N. Papanikolopoulos</authors>
+      <title>Dispersion Behaviors for a Team of Miniature Robots</title>
+      <location>Proceedings of the 2003 IEEE International Conference on Robotics and Automation</location>
+    </publication>
+    <publication>
+      <authors>Sascha A. Stoeter, Ian T. Burt, Nikolaos Papanikolopoulos</authors>
+      <title>Scout Robot Motion Model</title>
+      <location>Proceedings of the IEEE International Conference on Robotics and Automation, Taipei, Taiwan, May 2003</location>
+    </publication>
+    <publication>
+      <authors>Andrew Drenner, Ian Burt, Bradley Kratochvil, Brad Nelson, Nikolaos Papanikolopoulos, Kemal Berk Yesin</authors>
+      <title>Communication and Mobility Enhancements to the Scout Robot</title>
+      <location>Proceedings of the 2002 IEEE/RSJ International Conference on Intelligent Robots and Systems, Lausanne, Switzerland, Oct. 2002.</location>
+    </publication>
+    <publication>
+      <authors>S. A. Stoeter, P. E. Rybski, M. Gini, N. Papanikolopoulos</authors>
+      <title>Autonomous Stair-Hopping with Scout Robots</title>
+      <location>Proceedings of the IEEE International Conference on Intelligent Robots and Systems, pp. 721-726, Lausanne, Switzerland, September/October 2002.</location>
+    </publication>
+    <publication>
+      <authors>P. Rößler, S. A. Stoeter, P. E. Rybski, N. Papanikolopoulos</authors>
+      <title>Visual Servoing of a Miniature Robot Toward a Marked Target</title>
+      <location>Proceedings of the International Conference on Digital Signal Processing, Santorini, Greece, July 2002.</location>
+    </publication>
+    <publication>
+      <authors>A. Drenner, I. Burt, T. Dahlin, B. Kratochvil, C. P. McMillen, B. Nelson, N. Papanikolopoulos, P. E. Rybski, K. Stubbs, D. Waletzko, K. B. Yesin</authors>
+      <title>Mobility Enhancements to the Scout Robot Platform</title>
+      <location>Proceedings of the 2002 IEEE International Conference on Robotics and Automation, pp. 1069-1074, Washington, DC, May 2002.</location>
+    </publication>
+    <publication>
+      <authors>D. P. Perrin, E. Kadioglu, S. A. Stoeter, N. Papanikolopoulos</authors>
+      <title>Localization of Miniature Robots Using Constant Curvature Dynamic Countours</title>
+      <location>Proceedings of the 2002 IEEE International Conference on Robotics and Automation, pp. 702-707, Washington DC, May 2002.</location>
+    </publication>
+    <publication>
+      <authors>P. E. Rybski, A. Larson, A. Schoolcraft, S. Osentoski and M. Gini</authors>
+      <title>Evaluation of Control Strategies for Multi-Robot Search and Retrieval</title>
+      <location>Proceedings of The 7th International Conference on Intelligent Autonomous Systems (IAS-7), pp. 281-288, Marina del Rey, CA, March 2002.</location>
+    </publication>
+    <publication>
+      <authors>C. P. McMillen, K. Stubbs, P. E. Rybski, S. A. Stoeter, M. Gini, N. Papanikolopoulos</authors>
+      <title>Resource Scheduling and Load Balancing in Distributed Robotic Control Systems</title>
+      <location>Proceedings of The 7th International Conference on Intelligent Autonomous Systems (IAS-7), pp. 223-230, Marina del Rey, CA, March 2002.</location>
+    </publication>
+    <publication>
+      <authors>P. E. Rybski, S. A. Stoeter, M. Gini, D. F. Hougen, N. Papanikolopoulos</authors>
+      <title>Effects of Limited Bandwidth Communications Channels of the Control of Multiple Robots</title>
+      <location>Proceedings of the 2001 IEEE International Conference on Intelligent Robots and Systems, pp. 369-374, Maui, HI, October 2001.</location>
+    </publication>
+    <publication>
+      <authors>P. E. Rybski, I. Burt, T. Dahlin, M. Gini, D. F. Hougen, D. G. Krantz, F. Nageotte, N. Papanikolopoulos, S. A. Stoeter</authors>
+      <title>System Architecture for Versatile Autonomous and Teleoperated Control of Multiple Miniature Robots</title>
+      <location>Proceedings of the 2001 IEEE International Conference on Robotics and Automation, Seoul, Korea, May 2001.</location>
+    </publication>
+    <publication>
+      <authors>D. F. Hougen, M. D. Erickson, P. E. Rybski, S. A. Stoeter, M. Gini, N. Papanikolopoulos</authors>
+      <title>Autonomous Mobile Robots and Distributed Exploratory Missions</title>
+      <location>Fifth International Symposium on Distributed Autonomous Robotic Systems (DARS), Knoxville, TN, October 2000.</location>
+    </publication>
+    <publication>
+      <authors>S. A. Stoeter, P. E. Rybski, M. D. Erickson, M. Wyman, M. Gini, D. F. Hougen, N. Papanikolopoulos</authors>
+      <title>A Robot Team for Exploration and Surveillance: Design and Architecture</title>
+      <location>Proceedings of the International Conference on Intelligent Autonomous Systems 6, pp. 767-774, Venice, Italy, July 2000.</location>
+    </publication>
+    <publication>
+      <authors>N. Papanikolopoulos, S. A. Stoeter, P. E. Rybski, M. Gini, D. F. Hougen, M. Erickson</authors>
+      <title>Experiments with a Team of Miniature Robots</title>
+      <location>Proceedings of the IEEE Mediterranean Conference on Control & Automation, Rio, Greece, July 2000.</location>
+    </publication>
+    <publication>
+      <authors>P. E. Rybski, S. A. Stoeter, M. D. Erickson, M. Gini, D. F. Hougen, N. Papanikolopoulos</authors>
+      <title>A Team of Robotic Agents for Surveillance</title>
+      <location>Proceedings of the Fourth International Conference on Autonomous Agents, pp. 9-16, Barcelona, Spain, June 2000.</location>
+    </publication>
+    <publication>
+      <authors>D. F. Hougen, S. Benjaafar, J. C. Bonney, J. R. Budenske, M. Dvorak, M. Gini, H. French, D. G. Krantz, P. Y. Li, F. Malver, B. Nelson, N. Papanikolopoulos, P. E. Rybski, S. A. Stoeter, R. Voyles and K. B. Yesin</authors>
+      <title>A Miniature Robotic System for Reconnaissance and Surveillance</title>
+      <location>Proceedings of the 2000 IEEE International Conference on Robotics and Automation, pp. 501-507, San Francisco, CA, April 2000.</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>COTS Scout</robot>
+    <publication>
+      <authors>Ian Burt, Andrew Drenner, Casey Carlson, Apostolos D. Kottas, and Nikolaos Papanikolopoulos</authors>
+      <title>Impact Orientation Invariant Robot Design: An Approach to Projectile Deployed Robotic Platforms</title>
+      <location>Proceedings of the 2006 IEEE International Conference on Robotics and Automation, Orlando, FL, May 2006.</location>
+    </publication>
+    <publication>
+      <authors>Casey Carlson, Andrew Drenner, Ian Burt, Apostolos Kottas, Charles Hays, and Nikolaos Papanikolopoulos</authors>
+      <title>Rugged Robotic Reconnaissance System</title>
+      <location>Video proceedings of the 2006 IEEE International Conference on Robotics and Automation, Orlando, FL, May 2006.</location>
+    </publication>
+    <publication>
+      <authors>Casey Carlson, Andrew Drenner, Ian Burt, Apostolos Kottas, Charles Hays, and Nikolaos Papanikolopoulos</authors>
+      <title>Rugged Mobile Robotic System</title>
+      <location>Poster Session of the 2006 IEEE International Conference on Robotics and Automation, Orlando, FL, May 2006.</location>
+    </publication>
+    <publication>
+      <authors>Ben Jackson, Ian Burt, Bradley E. Kratochvil, and Nikolaos Papanikolopoulos</authors>
+      <title>A Control System for Teams of Off-the-Shelf Scouts and MegaScouts</title>
+      <location>Proceedings of the 11th IEEE Mediterranean Conference on Control and Automation, Rhodes, Greece, June 2003.</location>
+    </publication>
+    <publication>
+      <authors>Andrew Drenner, Ian Burt, Derek Goerke, Bradley E. Kratochvil, Nikolaos Papanikolopoulos</authors>
+      <title>COTS Scout Robot</title>
+      <location>Video proceedings of the SPIE International Symposium on Unmanned Ground Vehicle Technology V, Orlando, Florida, U.S.A., April 2003.</location>
+    </publication>
+    <publication>
+      <authors>Bradley E. Kratochvil, Ian T. Burt, Andrew Drenner, Derek Goerke, Bennett Jackson, Colin McMillen, Christopher Olson, Nikolaos Papanikolopoulos, Adam Pfeifer, Sascha A. Stoeter, Kristen Stubbs, David Waletzko</authors>
+      <title>Heterogeneous Implementation of an Adaptive Robotic Sensing Team</title>
+      <location>Proceedings of the IEEE International Conference on Robotics and Automation, Taipei, Taiwan, May 2003.</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Solar UAV</robot>
+    <publication>
+      <authors>Scott Morton, Ruben D'Sa and Nikolaos Papanikolopoulos</authors>
+      <title>Solar powered UAV: Design and experiments</title>
+      <location>IEEE Conference on Intelligent Robots and Systems (IROS) 2015</location>
+    </publication>
+    <publication>
+      <authors>Scott Morton, Luke Scharber and Nikolaos Papanikolopoulos</authors>
+      <title>Solar powered unmanned aerial vehicle for continuous flight: Conceptual overview and optimization</title>
+      <location>IEEE Conference on Robotics and Automation (ICRA) 2013</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>Solar UAV-Q</robot>
+    <publication>
+      <authors>Ruben D'Sa, Devon Jenson and Nikolaos Papanikolopoulos</authors>
+      <title>SUAV: Q - a hybrid approach to solar-powered flight</title>
+      <location>IEEE Conference on Robotics and Automation (ICRA) 2016</location>
+    </publication>
+  </publications_list>
+
+  <publications_list>
+    <robot>MegaScout</robot>
+    <publication>
+      <authors>Bradley Kratochvil, Ian T. Burt, Andrew Drenner, Derek Goerke, Bennett Jackson, Colin McMillen, Christopher Olson, Nikolaos Papanikolopoulos, Adam Pfeifer, Sascha A. Stoeter, Kristen Stubbs, David Waletzko</authors>
+      <title>Heterogeneous Implementation of an Adaptive Robotic Sensing Team</title>
+      <location>Proceedings of the IEEE International Conference on Robotics and Automation, Taipei, Taiwan, May 2003.</location>
+    </publication>
+  </publications_list>
+</publications_content>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>megascout_back.png</background_image>
+  <short_name>MegaScout</short_name>
+  <long_name>The MegaScout Robot</long_name>
+  <description>The MegaScout is a wholly new robot platform developed at the University of Minnesota to work in conjunction with a Scout team. The MegaScout is intended to provide command and control support for a Scout team as well as perform independently. The MegaScouts are still in their early prototyping stages, and more information will be provided as it becomes available.</description>
+  <demo></demo>
+  <further_description></further_description>
+  <variations></variations>
+  <specs>
+    <spec>Length: 37cm</spec>
+    <spec>Diameter: 13cm (main body)</spec>
+    <spec>Weight: 12kg</spec>
+    <spec>Top Speed: 7.2m/s</spec>
+    <spec>Communications:	Primary: 802.11b</spec>
+    <spec>Optional: 900Mhz FM Video</spec>
+  </specs>
+  <sensors>
+    <sensor>Color Tilt Camera</sensor>
+    <sensor>Color USB Camera</sensor>
+    <sensor>Eltec Pyroelectric Sensor</sensor>
+    <sensor>GP2D02 Range Finder</sensor>
+  </sensors>
+  <computation></computation>
+  <lifetime>
+    <life>250 Wh Lithium Polymer Battery</life>
+    <life>Approx. 20 hr Quiescent Mode</life>
+    <life>Approx 5 - 7.5 hr Reconnaissance Mode</life>
+  </lifetime>
+  <gallery>
+    <small_pic big="fin_megascout1.png">s_fin_megascout1.png</small_pic>
+    <small_pic big="fin_megascout2.png">s_fin_megascout2.png</small_pic>
+    <small_pic big="fin_megascout3.png">s_fin_megascout3.png</small_pic>
+    <small_pic big="fin_megascout4.png">s_fin_megascout4.png</small_pic>
+  </gallery>
+</robot>

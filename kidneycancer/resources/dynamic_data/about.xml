@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about_content>
+  <background_image>about_back.png</background_image>
+  <page_header>Our Mission</page_header>
+  <content>
+    <paragraph>The major objectives of our research are to design, build and demonstrate distributed robotic systems composed of a large collection of medium sized, small, and miniature robots, connected by a wireless communication network, cooperating to accomplish their given mission. The design of the individual robots, in particular the miniature robots, the development of innovative MEMS sensors for the miniature robots, and the development of control software for the individual robots and overall distributed system are the major innovative aspects of our work.</paragraph>
+    <paragraph>The emphasis is on the creation of inexpensive reconfigurable robotic systems which consist of physically separate units that communicate via a wireless communication network. These individual robots can work independently but in cooperation to complete the common goal. The ultimate objective is that the individual robots can combine forces to accomplish a class of tasks in a more robust and cost effective manner than a single robot.</paragraph>
+    <paragraph>To meet these objectives, the Center's team consists of a diverse collection of people from the University and other related industries.</paragraph>
+    <paragraph>The lab is affiiated with the <link href="http://www.ssrrc.dtc.umn.edu/">Safety Security Rescue - Research Center</link> which is part of the <link href="http://www.nsf.gov/eng/iip/iucrc/">NSF I/UCRC</link> program. In addition, the center is a member of the <link href="http://rosehub.umn.edu/">ROSE-HUB</link> consortium of companies and universites working to improve human well-being using robotics and sensor technology.</paragraph>
+  </content>
+</about_content>

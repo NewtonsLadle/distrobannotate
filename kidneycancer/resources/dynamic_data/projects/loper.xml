@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>loper_back.png</background_image>
+  <short_name>Loper</short_name>
+  <long_name>The Loper</long_name>
+  <description>The Loper is a versatile robotic platform designed for operation in a number of indoor and outdoor environments that would be common in the tasks at hand. The Loper is able to operate in these environments due to the combination of four novel Tri-lobe wheels, each of which is coupled to a high torque AC servo actuator mounted in a highly compliant chassis.</description>
+  <demo><youtube_video>https://youtu.be/hiqsE3PtG9M</youtube_video></demo>
+  <further_description>
+    <paragraph>The robots used for environmental monitoring must be capable of functioning in a number of environments that may be difficult for humans to operate. In addition to crossing diverse terrain (e.g., tall grass, sand, gravel, etc.), these robotic systems must be able to overcome man-made structures such as fences, etc. They must be able to carry significant processing and sensing equipment and power to maintain the system for prolonged operation.</paragraph>
+    <paragraph>The Hybrid robot was developed with obstacle scaling in mind. It is loosely based on the two-wheeled Scout line of robots, but with the addition of a rotary-wing flight mode. This makes it a two-wheeled ground robot that transforms into a helicopter. The flight mode utilizes two coaxial, counter-rotating rotors. A stabilizer bar linked to the upper rotor rejects disturbances and improves controllability.</paragraph>
+    <paragraph>The Loper is a versatile robotic platform designed for operation in a number of indoor and outdoor environments that would be common in the tasks at hand. The Loper is able to operate in these environments due to the combination of four novel Tri-lobe wheels, each of which is coupled to a high torque AC servo actuator mounted in a highly compliant chassis. The Loper is capable of a maximum sustained speed on level terrain of 8 km/h and can climb stairs at a rate of 6 steps/second. However, for safety purposes this speed is restrained to approximately 3 km/h and 3 steps/second. In other terms, this maximum speed is equivalent to travelling 4.3 body lengths per second which significantly out-paces other similar robot platforms.</paragraph>
+    <paragraph>The goal of the Loper"s design is to provide resources for (semi)-autonomous operation in a platform that could overcome the limitations of the aforementioned environments. At first glance, the Loper"s Tri-lobe wheels are similar in function to the spokes of the "Mini-Whegs", however, they actually use an active control scheme with independently driven motors similar to RHex. This enables multiple gaits that can not be achieved with the "Mini-Whegs" platform. The shape of the Tri-lobe wheels is similar to those found on MSRox, however, the Trilobe wheels lack the additional wheels found at each spoke of the MSRox.</paragraph>
+  </further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_loper1.png">s_fin_loper1.png</small_pic>
+    <small_pic big="fin_loper2.png">s_fin_loper2.png</small_pic>
+    <small_pic big="fin_loper3.png">s_fin_loper3.png</small_pic>
+    <small_pic big="fin_loper4.png">s_fin_loper4.png</small_pic>
+  </gallery>
+</robot>

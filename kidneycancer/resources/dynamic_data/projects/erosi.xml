@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>erosi_back.png</background_image>
+  <short_name>eROSI</short_name>
+  <long_name>The eROSI Robot</long_name>
+  <description>The eROSI (educational, Research-Oriented, Sensing, Inexpensive) robot is a robotic platform which balances ease of use with expandability to provide a platform which will arouse the interest of novice roboticists while remaining an adaptable research platform for the advanced scientist.</description>
+  <demo><gif>Spinning.gif</gif><gif>Square.gif</gif><gif>Obstacles.gif</gif><gif>WallFollow.gif</gif><gif>Hiding.gif</gif></demo>
+  <further_description>
+    <paragraph>The eROSI is not only mechanically appealing, but is also intended to be visually stimulating in order that students who might be intimidated by the traditional commercially-available black magic box will become more comfortable with the robot"s internal physical design. The inner workings of the robot are covered only by translucent plastic allowing students to see the inner components but protecting these components from static and other minor mishaps. Easily visible LEDs can be used to teach about digital signals or for debugging code, but most importantly provide students with an easy and obvious communication method.</paragraph>
+    <paragraph>The eROSI is equipped with photovoltaic sensors that give light levels, a pyroelectric sensor that can sense moving heat, and a two axis accelerometer. The differential drive mechanics provide students and researchers with an easily controllable platform complete with encoders for odometry-based experiments.</paragraph>
+    <paragraph>Bluetooth (TM) is used for communication between robots as well as with workstations. The potential also exists for interaction between eROSIs and virtually any Bluetooth (TM) enabled device such as a cellular phone. Although Bluetooth has a fairly short range as compared with other communications protocols, it has several advantages which make it appropriate for a robot used in education. It is well supported by most operating systems including Mac-based systems, Windows, and Linux which gives roboticists the freedom to work within the environment where they are most comfortable. Additionally, Bluetooth allows for easy point to point communications as well as ad hoc networks. Students can move from a simple topology of one robot and one workstation to collaborative team-based communication.</paragraph>
+  </further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors>
+    <sensor>Forward facing pyroelectric sensor</sensor>
+    <sensor>Upward facing photovoltaic sensor</sensor>
+    <sensor>Left and right forward facing photovoltaic sensors</sensor>
+    <sensor>Analog camera with transmitter</sensor>
+    <sensor>Dual axis accelerometer</sensor>
+    <sensor>Quadrature encoders</sensor>
+  </sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_erosi1.png">s_fin_erosi1.png</small_pic>
+    <small_pic big="fin_erosi2.png">s_fin_erosi2.png</small_pic>
+    <small_pic big="fin_erosi3.png">s_fin_erosi3.png</small_pic>
+    <small_pic big="fin_erosi4.png">s_fin_erosi4.png</small_pic>
+  </gallery>
+</robot>

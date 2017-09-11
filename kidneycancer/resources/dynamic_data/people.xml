@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <background_image>people_back.png</background_image>
+  <faculty>
+    <person>
+      <name>Nikos Papanikolopolous</name>
+      <image>Nikos200.jpg</image>
+      <title>Director, Distinguished McKnight Professor, IEEE Fellow</title>
+      <research>Robotics, Sensor networks, Sensor-based control in transportation applications, Computer vision, Inspection, Computer engineering, Computer integrated manufacturing</research>
+      <website>http://www-users.cs.umn.edu/~npapas/</website>
+      <email>npapas(at)cs.umn.edu</email>
+      <phone>(612) 625-0163</phone>
+    </person>
+    <person>
+      <name>Vassilios Morellas</name>
+      <image>vassilios200.jpg</image>
+      <title>Program Director, Center for Transportation Studies</title>
+      <research>Geometric image processing, machine learning, robotics and sensor integration to enhance automation of electromechanical systems</research>
+      <website>http://www.cts.umn.edu/staff/scholars/morellas/</website>
+      <email>morellas(at)umn.edu</email>
+      <phone>(612) 624-4822</phone>
+    </person>
+    <person>
+      <name>Maria Gini</name>
+      <image>gini200.jpg</image>
+      <title>Morse-Alumni Distinguished Teaching Professor, AAAI Fellow</title>
+      <research>Artificial Intelligence, Robotics, Intelligent Agents, Motion Planning, Navigation with Moving Obstacles</research>
+      <website>http://www-users.cs.umn.edu/~gini/</website>
+      <email>gini(at)cs.umn.edu</email>
+      <phone>(612) 625-5582</phone>
+    </person>
+  </faculty>
+  <staff>
+    <person>
+      <name>Ted Morris</name>
+      <image>morris.jpg</image>
+      <title>Research Engineer</title>
+      <research>Intelligent Transportation Systems, Sensing and Controls, Human Motion Analysis and Virtual Environments</research>
+      <email>tmorris(at)umn.edu</email>
+      <phone>(612) 624-8499</phone>
+    </person>
+  </staff>
+  <grad>
+    <person>
+      <name>William Beksi</name>
+      <image>beksi.png</image>
+      <title>Research Assistant</title>
+      <research>Robotic Perception, Networked and Cloud Robotics</research>
+      <email>beksi(at)cs.umn.edu</email>
+    </person>
+    <person>
+      <name>Dario Canelon</name>
+      <image>canelon.jpg</image>
+      <title>Research Assistant</title>
+      <research>Robotics, Design, Control Systems</research>
+      <email>dario(at)cs.umn.edu</email>
+    </person>
+    <person>
+      <name>Joshua Fasching</name>
+      <image>fasching.jpg</image>
+      <title>Research Assistant</title>
+      <research>Detection, Computer Vision, Machine Learning</research>
+      <email>fasching(at)cs.umn.edu</email>
+    </person>
+    <person>
+      <name>Dimitris Zermas</name>
+      <image>zermas.jpg</image>
+      <title>Research Assistant</title>
+      <research>Computer Vision, Image Segmentation, Object Classification, Precision Agriculture</research>
+      <email>dzermas(at)cs.umn.edu</email>
+    </person>
+  </grad>
+  <ugrad>
+    <person>
+      <name>Nick Erickson</name>
+      <image>erickson.jpg</image>
+      <title>Undergraduate Research Fellow</title>
+      <research>Machine Learning, Artificial Intelligence</research>
+      <email>eric30689(at)umn.edu</email>
+    </person>
+    <person>
+      <name>Nathan Studanski</name>
+      <image>studanski.jpg</image>
+      <title>Undergraduate Research Fellow</title>
+      <research>Artifical Intelligence, Machine Learning</research>
+      <email>studa003(at)umn.edu</email>
+      <phone>(763) 228-7398</phone>
+    </person>
+    <person>
+      <name>Travis Henderson</name>
+      <image>henderson.jpg</image>
+      <title>Undergraduate Research Fellow</title>
+      <research>Aerospace Structure Design, Fabrication of Fiber - Reinforced Composites</research>
+      <email>hende471(at)umn.edu</email>
+    </person>
+    <person>
+      <name>Ben Bosch</name>
+      <image>bosch.jpg</image>
+      <title>Undergraduate Research Fellow</title>
+      <research>Computer vision, especially as part of robotic platforms</research>
+      <email>bosch091(at)umn.edu</email>
+    </person>
+  </ugrad>
+</people>

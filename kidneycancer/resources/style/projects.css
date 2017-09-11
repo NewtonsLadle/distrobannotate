@@ -1,0 +1,10 @@
+p.center_button_p {
+  text-align:center;
+}
+
+a.project_home {
+  color:black;
+}
+a.project_home:hover {
+  text-decoration:none;
+}

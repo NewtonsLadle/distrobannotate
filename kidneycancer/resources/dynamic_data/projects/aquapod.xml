@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>fin_aquapod1.png</background_image>
+  <short_name>Aquapod</short_name>
+  <long_name>The Aquapod Robot</long_name>
+  <description>The Aquapod is a small amphibious tumbling robot capable of traversing a combination of terrestrial and aquatic environments using its high terrainability. Various prototypes have been built to respond to specific needs. Some of these prototypes are capable of remote control while others are built to accommodate small external controllable modules that extend the Aquapod"s functionality.</description>
+  <demo><youtube_video>https://youtu.be/Yn8qyIBZtNw</youtube_video><youtube_video>https://youtu.be/GaAHO9TFlVQ</youtube_video></demo>
+  <further_description></further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_aquapod1.png">s_fin_aquapod1.png</small_pic>
+    <small_pic big="fin_aquapod2.png">s_fin_aquapod2.png</small_pic>
+    <small_pic big="fin_aquapod3.png">s_fin_aquapod3.png</small_pic>
+  </gallery>
+</robot>

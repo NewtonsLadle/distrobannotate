@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>adelopod_back.png</background_image>
+  <short_name>Adelopod</short_name>
+  <long_name>The Adelopod Robot</long_name>
+  <description>The Adelopod is a small two-armed tumbling robot developed by the University of Minnesota Center for Distributed Robotics. Tumbling is achieved through the use of two rigid arms that rotate about its body. Another degree of freedom is achieved by each arm by adjusting the plane in which that arm rotates.</description>
+  <demo><youtube_video>https://youtu.be/WPEL4JOk7Vs</youtube_video></demo>
+  <further_description>Tumbling is a largely unexplored method of locomotion where the robot controls its orientation in order to achieve consecutive forward falls through its environment, thus producing net displacement. It is desirable for robotic locomotion for a number of reasons including inherent stability, high mobility, and low hardware complexity.</further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_adelopod1.png">s_fin_adelopod1.png</small_pic>
+    <small_pic big="fin_adelopod2.png">s_fin_adelopod2.png</small_pic>
+    <small_pic big="fin_adelopod3.png">s_fin_adelopod3.png</small_pic>
+    <small_pic big="fin_adelopod4.png">s_fin_adelopod4.png</small_pic>
+  </gallery>
+</robot>

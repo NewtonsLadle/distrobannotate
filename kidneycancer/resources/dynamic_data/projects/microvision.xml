@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>fin_microvision1.png</background_image>
+  <short_name>MicroVision</short_name>
+  <long_name>The MicroVision Robot</long_name>
+  <description>Taking the Explorer as inspiration for its base design the Microvision comes equipped with a laser scanner, an improved camera, RGB-D sensor, and a more powerful processing unit. The increase in computing power explains the size differences, as the Microvision robot is equipped with a PICO-ITX miniboard that can process data far faster than the Explorer"s Gumstix</description>
+  <demo><youtube_video>https://youtu.be/feOTTkhL05w</youtube_video><youtube_video>https://youtu.be/SyG0QVy_WEw</youtube_video></demo>
+  <further_description>Computer vision algorithms can be performed on-board this robot in real-time. Robotic applications are readily developed using the Robot Operating System and commercially available hardware making the Microvision a robust research platform.</further_description>
+  <variations></variations>
+  <specs>
+    <spec>Length: 290 mm</spec>
+    <spec>Width:	240 mm</spec>
+    <spec>Height:	210 mm</spec>
+  </specs>
+  <sensors>
+    <sensor>Digital Camera</sensor>
+    <sensor>Wheel Encoders</sensor>
+    <sensor>Hokuyo URG-04LX</sensor>
+    <sensor>Asus Xtion PRO LIVE</sensor>
+  </sensors>
+  <computation>
+    <comp>PICO-ITX miniboard</comp>
+    <comp>Intel Atom N2800 dual core processor</comp>
+    <comp>2 GB of RAM</comp>
+  </computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_microvision1.png">s_fin_microvision2.png</small_pic>
+    <small_pic big="fin_microvision2.png">s_fin_microvision2.png</small_pic>
+  </gallery>
+</robot>

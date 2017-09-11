@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<education_content>
+  <background_image>education_back.png</background_image>
+  <page_header>Education</page_header>
+  <content>
+    <paragraph>Alongside the University of Minnesota, The Center for Distributed Robotics is committed to the education of students and the public in areas of engineering and computer science through courses taught by faculty researchers and outreach programs run through the digital technology center.</paragraph>
+    <paragraph>In many ways the "hands-on" approach associated with robots and the robots interaction with the world can illustrate concepts that may otherwise be hard to understand. This greater accessibility to the facets of these technical fields provides a unique opportunity to appeal to students of all skill levels and ages.</paragraph>
+    <paragraph>For more information about outreach programs and seminars please visit the <link href="https://www.dtc.umn.edu/">Digital Technology Center's</link> website.</paragraph>
+    <paragraph>For more information about courses in robotics, please visit the University of Minnesota's <link href="http://www.catalogs.umn.edu/">course catalog</link>.</paragraph>
+  </content>
+</education_content>

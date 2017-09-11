@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news_list limit="5" select_from="top">
+  <item>
+    <title>Professor Papanikolopoulos Awarded Prestigious McKnight Professorship</title>
+    <date>August 22, 2016</date>
+    <description>Department of Computer Science and Engineering Professor Nikolaos Papanikolopoulos has been awarded the prestigious McKnight Presidential Professorship by University President Eric Kaler. The professorship is among the highest honors for faculty at the University.</description>
+    <url>https://www.cs.umn.edu/news/professor-papanikolopoulos-awarded-prestigious-mcknight-professorship</url>
+  </item>
+  <item>
+    <title>UMN listed among the top 20 robotics engineering schools</title>
+    <date>April 25, 2016</date>
+    <description>The University of Minnesota - Twin Cities has been identified as having one of the top robotics engineering schools in the United States for 2016.</description>
+    <url>http://www.gradschoolhub.com/best/robotics-engineering-schools/</url>
+  </item>
+  <item>
+    <title>Dr. Nikos Papanikolopoulos Receives George Saridis Leadership Award</title>
+    <date>February 3, 2016</date>
+    <description>Professor Nikolaos Papanikolopoulos was honored with the George Saridis Leadership Award in Robotics and Automation from the Institute of Electrical and Electronics Engineers' (IEEE) Robotics & Automation Society (RAS). The award recognizes outstanding contributions of an individual for his or her exceptional leadership, innovation and dedication that benefit the Robotics and Automation commun</description>
+    <url>https://www.cs.umn.edu/news/papanikolopoulos-receives-ras-leadership-award</url>
+  </item>
+  <item>
+    <title>U of M Student Robot Helps Detect Autism Signs</title>
+    <date>April 24, 2015</date>
+    <description>Josh Fasching is researching how robots and sensor technology can help in the medical world, particularly detecting behaviors associated with autism. "Head nodding, hand flapping, ear covering, also hand ringing behaviors is another one," Fasching said of the behaviors the robots would be able to detect.</description>
+    <url>http://kstp.com/article/stories/s3776999.shtml</url>
+  </item>
+  <item>
+    <title>University Professor uses robots in medicine, agriculture</title>
+    <date>April 7, 2015</date>
+    <description>Department of Computer Science and Engineering professor Nikolaos Papanikolopoulos is developing robot and sensor technology to detect visual cues that could determine if a child has autism or a farmer needs to fertilize a certain area of crops.
+</description>
+    <url>http://www.mndaily.com/news/campus/2015/04/07/university-professor-uses-robots-medicine-agriculture</url>
+  </item>
+  <item>
+    <title>Researchers 'Kinect' data to make faster diagnoses</title>
+    <date>March 10, 2015</date>
+    <description>The Xbox Kinect has become a U tool for diagnosing mental disorders in children.</description>
+    <url>http://www.mndaily.com/2011/03/10/researchers-%E2%80%98kinect%E2%80%99-data-make-faster-diagnoses</url>
+  </item>
+</news_list>

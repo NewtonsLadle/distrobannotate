@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>explorer_back.png</background_image>
+  <short_name>Explorer</short_name>
+  <long_name>The Explorer Robot</long_name>
+  <description>The Explorer robot was designed to provide research scientists with an advanced, safe, and easy to use mobile robotic platform. While it may look deceptively similar to its predecessor, the eROSI, it is different in all aspects of design - from the mechanical structure and electrical hardware, to its software processing capabilities.</description>
+  <demo></demo>
+  <further_description>The Explorer robot has a specially designed power management system developed to provide a virtual gas gauge with respect to available power. In addition, there is integrated battery management and charging capabilities. Combined, these compatibilities allow the Explorer to autonomously recharge itself within the Docking Bay.
+</further_description>
+  <variations></variations>
+  <specs>
+    <spec>Length: 140mm</spec>
+    <spec>Width: 60 mm</spec>
+    <spec>Height:	45 mm</spec>
+  </specs>
+  <sensors>
+    <sensor>Analog Camera with Transmitter</sensor>
+    <sensor>Wheel Encoders</sensor>
+    <sensor>Dual Axis Accelerometer</sensor>
+  </sensors>
+  <computation>
+    <comp>400 MHz Verdex Gumstix</comp>
+  </computation>
+  <lifetime>
+    <life>1320 mAh LiPoly Battery</life>
+    <life>Full Speed: ~180 minutes</life>
+  </lifetime>
+  <gallery>
+    <small_pic big="fin_explorer1.png">s_fin_explorer1.png</small_pic>
+    <small_pic big="fin_explorer2.png">s_fin_explorer2.png</small_pic>
+    <small_pic big="fin_explorer3.png">s_fin_explorer3.png</small_pic>
+  </gallery>
+</robot>

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1486441010566,
+    "users": ["helle246"],
+    "type": 0,
+    "content": "You have been added to: Kidney Cancer",
+    "extended": "Happy annotating! Contact helle246@umn.edu with any questions"
+  },
+  {
+    "id": 0,
+    "timestamp": 1484200800000,
+    "users": ["helle246"],
+    "type": 1,
+    "content": "Kidney Cancer added 25 patients",
+    "extended": "So far only one has been added, but they will trickle in over time."
+  }
+]

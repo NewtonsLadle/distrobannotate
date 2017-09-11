@@ -1,0 +1,85 @@
+a.auto {
+  font-size:21px;
+}
+
+div.patient {
+  box-shadow: 0px 0px 15px grey;
+  display: block;
+  margin:10px;
+  width:885px;
+}
+div.patient.cur {
+  box-shadow: 0px 0px 15px cornflowerblue;
+}
+div.patient * {
+  vertical-align:middle;
+}
+
+h1.patient_id, div.patient_stat, div.patient_buttons {
+  display:inline-block;
+}
+
+h1.patient_id {
+  font-size: 28px;
+  padding:15px;
+  width:250px;
+}
+
+div.patient_stat {
+  text-align:center;
+  padding:15px;
+  min-width:80px;
+}
+
+div.patient_stat div.patient_stat_num {
+  font-size: 20px;
+}
+
+div.patient_stat.unannotated {
+  color: #337ab7;
+}
+div.patient_stat.pending {
+  color: #f0ad4e;
+}
+div.patient_stat.valid {
+  color:#5cb85c;
+}
+div.patient_stat.flagged {
+  color:#d9534f;
+}
+
+div.patient_buttons {
+}
+div.patient_buttons a {
+  display:block;
+  padding:7px;
+  margin:3px;
+  border-radius:7px;
+}
+div.patient_buttons a.annotate {
+  border: 1px solid #337ab7;
+  color: #337ab7;
+}
+div.patient_buttons a.annotate:hover, div.patient_buttons a.annotate:active {
+  background-color: #337ab7;
+  text-decoration:none;
+}
+div.patient_buttons a.validate {
+  border: 1px solid #5cb85c;
+  color: #5cb85c;
+}
+div.patient_buttons a.validate:hover, div.patient_buttons a.validate:active {
+  background-color: #5cb85c;
+  text-decoration:none;
+}
+div#last_active {
+  display:inline-block;
+  width:150px;
+  color:gray;
+}
+div#last_active_name {
+  text-align:center;
+}
+div#last_active_time {
+  text-align:center;
+}

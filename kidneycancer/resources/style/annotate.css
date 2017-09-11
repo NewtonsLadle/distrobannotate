@@ -1,0 +1,353 @@
+body {
+  min-width:768px;
+}
+nav {
+  z-index: 5;
+}
+a.zoom_icon {
+  font-size:25px;
+  text-decoration: none;
+}
+
+a.zoom_icon:hover {
+  text-decoration:none;
+}
+
+div#annotator_cont {
+  margin:0 0;
+	max-width:1000px;
+	max-height:700px;
+	overflow:scroll !important;
+	position:relative;
+}
+img#to_annotate {
+  image-rendering: pixelated;
+  position:absolute;
+  top:0px;
+  z-index:1;
+}
+canvas#annotator {
+  position:absolute;
+  top:0px;
+  opacity:.5;
+  z-index:2;
+  touch-action:none;
+}
+div.layer {
+
+}
+span#image_num {
+  font-size:25px;
+  padding-left:30px;
+  padding-right:30px;
+  color:gray;
+}
+
+/* Island */
+div.island {
+  /*position:fixed;
+  top:110px;*/
+  background-color:rgba(255,255,255,.8);
+  width:250px;
+  z-index:3;
+  border-radius:5px;
+}
+
+/* control bar */
+div#ctrl_bar {
+  right:10px;
+  padding-bottom:15px;
+}
+div.island_divider {
+  border-top: 1px solid rgba(0,0,0,.1);
+  width:90%;
+  margin:0 auto;
+}
+div#toolbox {
+  width:100%;
+  height:50px;
+  text-align: left;
+}
+div#toolbox * {
+  vertical-align: middle;
+  display:inline-block;
+}
+a.tool {
+  border: 1px solid rgba(0,0,0,0);
+  min-width: 40px;
+  min-height: 40px;
+  text-align: center;
+  border-radius:5px;
+}
+a.tool:hover {
+  border-color: grey;;
+  text-decoration:none;
+}
+a.tool.sel {
+  border-color: black;
+}
+p.shortcut_message {
+  text-align:center;
+  font-size:10px;
+  margin-bottom:2px;
+  margin-top:5px;
+}
+div#buttons_cont {
+  text-align:center;
+}
+.btn-outline {
+  background: none;
+  border: 2px solid #0099cc;
+  color: #0099cc;
+}
+a#nextbutton {
+  margin-left:15px;
+  margin-right:15px;
+}
+a#prevbutton {
+  margin-right:15px;
+}
+button.submit_feature i {
+  display: none !important;
+}
+button.submit_feature.comp i {
+  display: inline !important;
+}
+div#patient_info {
+  height:50px;
+}
+div#patient_info div#images_slider {
+  overflow: scroll;
+  width:100%;
+}
+
+div#patient_info div#images_slider a.patient_image {
+  height:35px;
+  margin: 2.5px;
+  display:inline-block;
+}
+
+div.finished_annotation {
+  position:absolute;
+  min-height:200px;
+  min-width:1050px;
+  margin:0 auto;
+  text-align:center;
+}
+div.finished_divider {
+  display:inline-block;
+  width:15px;
+}
+div.fa_image {
+  width:180px;
+  height:180px;
+  background-color:lightgrey;
+  display:inline-block;
+}
+div.fa_image img {
+  display:block;
+  padding:0;
+  margin:0;
+  position: absolute;
+}
+div.finished_annotation p.fa_lbl {
+  position:absolute;
+  top:200px;
+}
+div.finished_annotation * {
+  vertical-align: top;
+}
+span.flag_note {
+  color:red;
+}
+
+
+div#patient_info div#images_slider a.patient_image.pending {
+  background-color:#f0ad4e;
+}
+div#patient_info div#images_slider a.patient_image img.pending {
+  opacity:.6;
+}
+div#patient_info div#images_slider a.patient_image.valid {
+  background-color:#5cb85c;
+}
+div#patient_info div#images_slider a.patient_image img.valid {
+  opacity:.6;
+}
+div#patient_info div#images_slider a.patient_image.flagged {
+  background-color:#d9534f;
+}
+div#patient_info div#images_slider a.patient_image img.flagged {
+  opacity:.6;
+}
+div#patient_info div#images_slider a.patient_image.sel {
+  background-color:#337ab7;
+}
+div#patient_info div#images_slider a.patient_image img.sel {
+  opacity:.2;
+}
+
+h1.error_msg {
+  font-size:20px;
+}
+
+
+
+
+
+img#icon3_img {
+  padding:18.5px 0;
+}
+img#icon5_img {
+  padding:17.5px 0;
+}
+img#icon6_img {
+  padding:17px 0;
+}
+img#icon9_img {
+  padding:15.5px 0;
+}
+img#icon10_img {
+  padding:15px 0;
+}
+img#icon12_img {
+  padding:14px 0;
+}
+img#icon15_img {
+  padding:12.5px 0;
+}
+img#icon18_img {
+  padding:11px 0;
+}
+img#icon20_img {
+  padding: 10px 0;
+}
+img#icon21_img {
+  padding: 9.5px 0;
+}
+img#icon24_img {
+  padding: 8px 0;
+}
+img#icon25_img {
+  padding: 7.5px 0;
+}
+img#icon30_img {
+  padding: 5px 0;
+}
+img#icon35_img {
+  padding: 2.5px 0;
+}
+
+/* correct cursors */
+div.brushwidth3 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor5.png') 2.5 2.5, auto;
+}
+div.brushwidth5 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor6.png') 3 3, auto;
+}
+div.brushwidth6 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor6.png') 3 3, auto;
+}
+div.brushwidth9 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor9.png') 4.5 4.5, auto;
+}
+div#page-wrapper.r div.brushwidth10 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/icon10.png') 5 5, auto;
+}
+div#page-wrapper.g div.brushwidth10 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/gicon10.png') 5 5, auto;
+}
+div#page-wrapper.b div.brushwidth10 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/bicon10.png') 5 5, auto;
+}
+div#page-wrapper.y div.brushwidth10 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/yicon10.png') 5 5, auto;
+}
+
+div.brushwidth12 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor12.png') 6 6, auto;
+}
+div.brushwidth15 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor15.png') 7.5 7.5, auto;
+}
+div.brushwidth18 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor18.png') 9 9, auto;
+}
+div.brushwidth20 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/icon20.png') 10 10, auto;
+}
+div.brushwidth21 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor21.png') 10.5 10.5, auto;
+}
+div.brushwidth24 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor24.png') 12 12, auto;
+}
+div.brushwidth25 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor25.png') 12.5 12.5, auto;
+}
+div.brushwidth30 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor30.png') 15 15, auto;
+}
+div.brushwidth35 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor35.png') 17.5 17.5, auto;
+}
+div.brushwidth40 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor40.png') 20 20, auto;
+}
+div.brushwidth50 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor6.png') 25 25, auto;
+}
+div.brushwidth60 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor60.png') 30 30, auto;
+}
+div.brushwidth70 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor70.png') 35 35, auto;
+}
+div.brushwidth80 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor80.png') 40 40, auto;
+}
+div.brushwidth100 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor100.png') 50 50, auto;
+}
+div.brushwidth120 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor120.png') 60 60, auto;
+}
+div.brushwidth140 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor140.png') 70 70, auto;
+}
+div.brushwidth160 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/cursor160.png') 80 80, auto;
+}
+
+div#page-wrapper.r div.brushwidth0 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/icon0.png') 38 33, auto;
+}
+div#page-wrapper.g div.brushwidth0 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/gicon0.png') 38 33, auto;
+}
+div#page-wrapper.b div.brushwidth0 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/bicon0.png') 38 33, auto;
+}
+div#page-wrapper.y div.brushwidth0 {
+  cursor: url('/kidneycancer/resources/images/kidneycancer/tools/yicon0.png') 38 33, auto;
+}
+
+/* validator styles */
+
+div#validation_toolbar {
+  padding-bottom: 20px;
+}
+
+div#to_validate {
+  margin-bottom:100px;
+}
+
+/* div#ctrl_bar img, div#annotator_cont img, div#validation_toolbar img, div#to_validate img, div.finished_annotation img { */
+img.process_me {
+  filter: brightness(170%) contrast(300%);
+}
+img.val_pos {
+  position:absolute;
+  top:270px;
+  left:250px;
+}

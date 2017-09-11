@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employment_content>
+  <background_image>employment_back.png</background_image>
+  <page_header>Employment</page_header>
+  <content>
+    <paragraph>The Center for Distributed Robotics is interested in hiring skilled and motivated undergraduate students for robotics and computer-vision related research. Please e-mail Dr. Nikolaos Papanikolopoulos for more information.</paragraph>
+    <paragraph><link href="mailto:npapas@cs.umn.edu?Subject=Interest%20in%20Undergraduate%20Research">npapas(at)cs.umn.edu</link></paragraph>
+  </content>
+</education_content>

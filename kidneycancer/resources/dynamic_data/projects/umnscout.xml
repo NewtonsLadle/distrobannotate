@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>umnscout_back.png</background_image>
+  <short_name>UMN Scout</short_name>
+  <long_name>The UMN Scout</long_name>
+  <description>The Scout robot has been developed at the University of Minnesota in partnership with MTS, Honeywell, and ATC. The Scout is designed to operate alone or in conjunction with Scouts or other robots. The Scouts are specialized robots that carry out low-level, usually parallel tasks aimed to meet the mission objectives. Scouts can include simple sensory units or units with locomotion, tools or other specializations. All Scouts have a similar form factor to enable delivery by a uniform mechanism of the ranger.</description>
+  <demo></demo>
+  <further_description>The Scout has a body of roughly 11cm long, and 4cm in diameter (the special foam wheels can expand to 5cm in diameter). This body fits snugly inside a protective covering called a Sabot that absorbs much of the impact during the launch, and allows the Scout to even break through a glass window and land safely and ready to begin its mission.</further_description>
+  <variations>
+    <var>
+      <name>Actuating Wheel V1</name>
+      <pic>ActuV1.jpg</pic>
+      <description>The Actuating Wheel Scout version 1 created a wheel system that allowed a dynamic range of wheel diameter from 44 mm to 120 mm, enabling operation on a variety of terrain.</description>
+    </var>
+    <var>
+      <name>Actuating Wheel V2</name>
+      <pic>ActuV2.jpg</pic>
+      <description>The Actuating Wheel Scout version 2 improved upon the mechanical design of the first version while restoring the launch form factor by enabling a range of 39 mm to 120 mm.</description>
+    </var>
+    <var>
+      <name>Grappling Hook V1</name>
+      <pic>GrapV1.jpg</pic>
+      <description>The first generation grappling hook was designed to increase vertical mobility by adding an external grappling hook capable of a single shot.</description>
+    </var>
+    <var>
+      <name>Grappling Hook V2</name>
+      <pic>GrapV2.jpg</pic>
+      <description>The second generation grappling hook was designed to replace the winch mechanism for jumping, allowing for a self contained grappling hook system.</description>
+    </var>
+    <var>
+      <name>Blimp</name>
+      <pic>blimp.jpg</pic>
+      <description>This Scout has been modified with an external interface to control the motors of a blimp. Using visual servoing techniques, the blimp can function as an aerial observation platform.</description>
+    </var>
+    <var>
+      <name>InfraRed</name>
+      <pic>Infrared.jpg</pic>
+      <description>The InfraRed (IR) Scout is enhanced through the addition of a pair of IR emitters. Each emitter is an array of 36 IR LEDs with a combined output close to a small maglight flashligh on the IR spectrum. One IR Scout is capable of illuminating a room for several other Scouts.</description>
+    </var>
+    <var>
+      <name>Pan-Tilt</name>
+      <pic>PanTilt.jpg</pic>
+      <description>This Scout is equipped with an additional motor system capable of two degrees of freedom which allows for a pan-tilt mechanism to observe an area of interest.</description>
+    </var>
+    <var>
+      <name>Geiger Counter</name>
+      <pic>Geiger.jpg</pic>
+      <description>This Scout is equipped with a prototype miniature geiger counter for detection of radioactive fields.</description>
+    </var>
+  </variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_umnscout1.png">s_fin_umnscout1.png</small_pic>
+    <small_pic big="fin_umnscout2.png">s_fin_umnscout2.png</small_pic>
+    <small_pic big="fin_umnscout3.png">s_fin_umnscout3.png</small_pic>
+    <small_pic big="fin_umnscout4.png">s_fin_umnscout4.png</small_pic>
+  </gallery>
+</robot>

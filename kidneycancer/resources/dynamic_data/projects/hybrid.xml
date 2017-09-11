@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot>
+  <background_image>hybrid_back.png</background_image>
+  <short_name>Hybrid</short_name>
+  <long_name>The Hybrid</long_name>
+  <description>The Hybrid robot was developed with obstacle scaling in mind. It is loosely based on the two-wheeled Scout line of robots, but with the addition of a rotary-wing flight mode. This makes it a two-wheeled ground robot that transforms into a helicopter. The flight mode utilizes two coaxial, counter-rotating rotors. A stabilizer bar linked to the upper rotor rejects disturbances and improves controllability.</description>
+  <demo></demo>
+  <further_description>
+    <paragraph>Miniature ground robots often encounter impassable obstacles due to a mismatch between the size of the robots and the scale of the objects in their mission environment. For instance, robots operating in urban environments may frequently come across stairs. Larger robots can typically scale stairs without issue, but for robots lower on the size spectrum, similar performance is much more difficult to achieve.</paragraph>
+    <paragraph>The Hybrid robot was developed with obstacle scaling in mind. It is loosely based on the two-wheeled Scout line of robots, but with the addition of a rotary-wing flight mode. This makes it a two-wheeled ground robot that transforms into a helicopter. The flight mode utilizes two coaxial, counter-rotating rotors. A stabilizer bar linked to the upper rotor rejects disturbances and improves controllability.</paragraph>
+    <paragraph>In the ground mode, the rotors and stabilizer bar used for flight are folded down along the length of the robotâ€™s body. It transforms into its flight mode by positioning itself on-end, with its long axis oriented vertically rather than horizontally, and unfolding its flight mechanisms. The rotors are attached to the rotor heads close to the drive shafts by passive hinges and thus unfold as the shafts begin to spin.</paragraph>
+    <paragraph>The robot is primarily meant for use on the ground; the intent of the flight mode is to move the robot over obstacles, across rough terrain, into open windows, etc.</paragraph>
+  </further_description>
+  <variations></variations>
+  <specs></specs>
+  <sensors></sensors>
+  <computation></computation>
+  <lifetime></lifetime>
+  <gallery>
+    <small_pic big="fin_hybrid1.png">s_fin_hybrid1.png</small_pic>
+    <small_pic big="fin_hybrid2.png">s_fin_hybrid2.png</small_pic>
+    <small_pic big="fin_hybrid3.png">s_fin_hybrid3.png</small_pic>
+    <small_pic big="fin_hybrid4.png">s_fin_hybrid4.png</small_pic>
+  </gallery>
+</robot>
