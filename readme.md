@@ -1,6 +1,6 @@
 # Distrobannotate
 
-This repository has been made public is the spirit of transparency to accompany our submission to the MICCAI LABELS workshop. The paper can be found in the home directory of this repository. Unfortunately we do not have the resources at this time to maintain this as production software.
+This repository has been made public is the spirit of transparency to accompany our submission to the MICCAI LABELS workshop. [The paper](https://github.com/NewtonsLadle/distrobannotate/blob/master/LABELS2017.pdf) can be found in the home directory of this repository. Unfortunately we do not have the resources at this time to maintain this as production software.
 
 ## Acknowledgements
 
